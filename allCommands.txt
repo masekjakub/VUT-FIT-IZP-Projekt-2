@@ -1,0 +1,23 @@
+U a b c d
+S a b d
+S a b c d
+R (a b) (b c) (d a)
+C empty 2
+C card 3
+C complement 2
+C union 2 3
+C intersect 2 3
+C minus 3 2
+C subseteq 2 3
+C subset 2 3
+C equals 2 3
+C reflexive 4
+C symmetric 4
+C antisymmetric 4
+C transitive 4
+C function 4
+C domain 4
+C codomain 4
+C injective 4 2 3
+C surjective 4 2 3
+C bijective 4 2 3
