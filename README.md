@@ -1,13 +1,5 @@
 # IZP2
 
-Oi cunt!
-Welcum in IZP projekt 2
-Nějaký info:
-  - Soubor, kterej budeme odevzdávat se jmenuje setcal.c. Když ho budete upravovat, ukládejte ho do vlastních větví.
-  - Zadání projektu here: https://wis.fit.vutbr.cz/FIT/st/cwk.php.cs?title=Projekt2&csid=779093&id=14723
-  - PRO FILIPA: stáhni si rozšíření pro Git do VScodu a můžeš to psát přímo přes to :)
-  - TAKY PRO FILIPA: nebo si můžeš přímo github Desktop
-
 Rozdělení práce:
   - Čtení: Marten
   - Dealloc: Gary
