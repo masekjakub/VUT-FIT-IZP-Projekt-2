@@ -1,4 +1,6 @@
 # IZP2
+Hodnocení: 14/14
+Autoři: xmasek19 xzelen27 xkucha30 xpolom00
 
 Rozdělení práce:
   - Čtení: Marten
